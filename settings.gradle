@@ -1,0 +1,11 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.name = "20220315_MyChattingApp02"
+include ':app'
+include ':myexpandablerecyclerview'
